@@ -1,0 +1,16 @@
+body { background-color: black;
+      color: #fff;}
+
+.navbar{background-color: #fff;
+        margin-bottom: 3rem;}
+
+#spacing { padding: 9rem;
+        background-image: url(../html/img/pexels-photo-59519.jpeg);
+         }
+
+.nav-link{ font-size: large; color: black;}
+
+#ange{ background-color:  gray;
+       margin-top: 3rem;}
+
+#ange >row { margin-bottom: 1rem; background-color: red;}
